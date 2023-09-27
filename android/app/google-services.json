@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765476694363",
+    "project_id": "nuelroncampustour",
+    "storage_bucket": "nuelroncampustour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765476694363:android:4824a1872a1f4058a9d27e",
+        "android_client_info": {
+          "package_name": "com.example.nuelroncampustour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2n4MFoZlU1Kl8AK4fHNF6sXLwFXYWGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

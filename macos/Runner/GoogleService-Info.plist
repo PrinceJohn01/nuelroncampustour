@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyApXt26AQtbAFK3TRALQzN9CeBm6Cr-WWE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>765476694363</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nuelroncampustour.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>nuelroncampustour</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nuelroncampustour.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:765476694363:ios:d35963dff74e5401a9d27e</string>
+</dict>
+</plist>
