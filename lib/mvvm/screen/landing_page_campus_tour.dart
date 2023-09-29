@@ -862,7 +862,7 @@ class LandingPageCampusTour extends StatelessWidget {
                                                   return Column(
                                                     children: [
                                                       AspectRatio(
-                                                        aspectRatio: 3 / 2,
+                                                        aspectRatio: 10 / 6.2,
                                                         child: Container(
                                                           width: 427 * fem,
                                                           height: 275 * fem,
