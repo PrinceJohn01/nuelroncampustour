@@ -1,11 +1,8 @@
-
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 
 class LogicMain extends BaseViewModel implements Initialisable{
-
 
 
   List testnow = [];
@@ -16,7 +13,6 @@ class LogicMain extends BaseViewModel implements Initialisable{
   @override
   void initialise() {
     // TODO: implement initialise
-
     // Create a timer to automatically scroll the GridView up
     Timer.periodic(const Duration(seconds: 2), (Timer timer) {
       if (currentIndex < 1) {
